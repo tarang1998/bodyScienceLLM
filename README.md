@@ -16,7 +16,7 @@
 ```
 git clone https://github.com/tarang1998/bodyScienceLLM.git
 ```
-- Create and activate the conda environment
+- Create and activate the python environment
 
 ```
 conda create -n bodyScience python=3.10 -y
